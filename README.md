@@ -1,4 +1,5 @@
 # StableDiffusionApp
+![generatedimage](https://github.com/MarcoHolden/StableDiffusionApp/assets/136394451/c5f600a3-31a0-425b-9b95-d57256085b4d)
 
 ## Stable Bud Image Generation App
 
